@@ -1,0 +1,28 @@
+﻿  main.cpp
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(128,35): warning C4267: “初始化”: 从“size_t”转换到“int32_t”，可能丢失数据
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(128,30): warning C4267: “初始化”: 从“size_t”转换到“const int32_t”，可能丢失数据
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(165,34): warning C4244: “参数”: 从“T”转换到“unsigned int”，可能丢失数据
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(165,34): warning C4244:         with
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(165,34): warning C4244:         [
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(165,34): warning C4244:             T=uint64_t
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(165,34): warning C4244:         ]
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(170,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(193,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(243,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(257,57): warning C4244: “参数”: 从“T”转换到“unsigned int”，可能丢失数据
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(257,57): warning C4244:         with
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(257,57): warning C4244:         [
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(257,57): warning C4244:             T=uint64_t
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(257,57): warning C4244:         ]
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(261,70): warning C4244: “参数”: 从“T”转换到“unsigned int”，可能丢失数据
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(261,70): warning C4244:         with
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(261,70): warning C4244:         [
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(261,70): warning C4244:             T=uint64_t
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(261,70): warning C4244:         ]
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(277,45): warning C4244: “参数”: 从“T”转换到“unsigned int”，可能丢失数据
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(277,45): warning C4244:         with
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(277,45): warning C4244:         [
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(277,45): warning C4244:             T=uint64_t
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(277,45): warning C4244:         ]
+C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\Project1\main.cpp(301,23): warning C4018: “<”: 有符号/无符号不匹配
+  Project1.vcxproj -> C:\Users\Administrator\Documents\code\UE4\Fadeout\Project1\x64\Debug\Project1.exe
