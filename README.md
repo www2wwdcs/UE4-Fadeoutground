@@ -1,0 +1,2 @@
+project项目为dump
+fadeoutground-draw为绘制
